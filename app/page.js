@@ -56,7 +56,7 @@ export default function Portfolio() {
       image: ''
     },
     {
-      title: 'روژه ایی یافت نشدهب',
+      title: 'روژه ایی یافت نشده',
       description: '',
       tech: ['JavaScript', 'CSS', 'HTML'],
       gradient: 'from-gray-400 to-gray-600',
@@ -560,5 +560,6 @@ export default function Portfolio() {
   );
 
 }
+
 
 
