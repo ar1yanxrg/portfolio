@@ -441,15 +441,6 @@ export default function Portfolio() {
                 <Mail className="w-8 h-8 text-white" />
               </a>
             </div>
-
-            <Button
-              size="lg"
-              className="bg-gradient-to-l from-gray-600 via-gray-700 to-gray-900 hover:from-gray-500 hover:via-gray-600 hover:to-gray-800 text-white font-black text-xl px-10 py-7 rounded-2xl shadow-2xl hover:shadow-gray-500/50 hover:scale-105 transition-all duration-300"
-            >
-              دانلود رزومه
-              <Award className="w-6 h-6 mr-3" />
-            </Button>
-          </div>
         </div>
       </section>
 
@@ -560,6 +551,7 @@ export default function Portfolio() {
   );
 
 }
+
 
 
 
