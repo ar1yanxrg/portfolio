@@ -183,19 +183,19 @@ export default function Portfolio() {
                 <div className="flex gap-8 mb-10 fade-in-right-delay-3">
                   <div>
                     <div className="text-4xl font-black bg-gradient-to-l from-white to-gray-400 bg-clip-text text-transparent">
-                      50+
+                      2+
                     </div>
                     <div className="text-slate-400 font-bold text-base">پروژه موفق</div>
                   </div>
                   <div>
                     <div className="text-4xl font-black bg-gradient-to-l from-gray-300 to-gray-500 bg-clip-text text-transparent">
-                      5+
+                      به تازگی
                     </div>
                     <div className="text-slate-400 font-bold text-base">سال تجربه</div>
                   </div>
                   <div>
                     <div className="text-4xl font-black bg-gradient-to-l from-gray-400 to-gray-600 bg-clip-text text-transparent">
-                      30+
+                      2+
                     </div>
                     <div className="text-slate-400 font-bold text-base">مشتری راضی</div>
                   </div>
@@ -375,7 +375,7 @@ export default function Portfolio() {
             <Card className="bg-slate-900/50 border-slate-800 backdrop-blur-sm p-8 hover:border-gray-500/50 transition-all duration-300 hover:scale-105">
               <div className="space-y-5 text-slate-300 font-bold text-xl leading-relaxed">
                 <p>
-                  سلام! من یک برنامه‌نویس و طراح وب با بیش از 1 سال تجربه در زمینه توسعه فرانت‌اند هستم.
+                  سلام! من یک برنامه‌نویس و طراح وب هستم که به‌تازگی  در زمینه توسعه‌ی فرانت‌اند شروع کرده‌ام.
                 </p>
                 <p>
                   تخصص من در <span className="text-gray-300 font-black">HTML</span>، <span className="text-gray-400 font-black">CSS</span> و <span className="text-gray-500 font-black">JavaScript</span> است و می‌توانم وب‌سایت‌های زیبا و کارآمد بسازم.
@@ -558,4 +558,5 @@ export default function Portfolio() {
       `}</style>
     </div>
   );
+
 }
