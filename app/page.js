@@ -183,19 +183,19 @@ export default function Portfolio() {
                 <div className="flex gap-8 mb-10 fade-in-right-delay-3">
                   <div>
                     <div className="text-4xl font-black bg-gradient-to-l from-white to-gray-400 bg-clip-text text-transparent">
-                      2+
+                      6+
                     </div>
                     <div className="text-slate-400 font-bold text-base">پروژه موفق</div>
                   </div>
                   <div>
                     <div className="text-4xl font-black bg-gradient-to-l from-gray-300 to-gray-500 bg-clip-text text-transparent">
-                      به تازگی
+                      6+
                     </div>
                     <div className="text-slate-400 font-bold text-base">سال تجربه</div>
                   </div>
                   <div>
                     <div className="text-4xl font-black bg-gradient-to-l from-gray-400 to-gray-600 bg-clip-text text-transparent">
-                      2+
+                      1+
                     </div>
                     <div className="text-slate-400 font-bold text-base">مشتری راضی</div>
                   </div>
@@ -560,3 +560,4 @@ export default function Portfolio() {
   );
 
 }
+
