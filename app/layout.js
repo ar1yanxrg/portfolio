@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'پورتفولیو من - توسعه‌دهنده وب',
+  title: 'آریان امروانی - طراح سایت',
   description: 'پورتفولیو شخصی برنامه‌نویس و طراح وب',
 }
 
@@ -19,4 +19,5 @@ export default function RootLayout({ children }) {
       </body>
     </html>
   )
+
 }
