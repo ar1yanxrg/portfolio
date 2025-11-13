@@ -189,13 +189,13 @@ export default function Portfolio() {
                   </div>
                   <div>
                     <div className="text-4xl font-black bg-gradient-to-l from-gray-300 to-gray-500 bg-clip-text text-transparent">
-                      6+
+                      1+
                     </div>
                     <div className="text-slate-400 font-bold text-base">سال تجربه</div>
                   </div>
                   <div>
                     <div className="text-4xl font-black bg-gradient-to-l from-gray-400 to-gray-600 bg-clip-text text-transparent">
-                      1+
+                      6+
                     </div>
                     <div className="text-slate-400 font-bold text-base">مشتری راضی</div>
                   </div>
@@ -560,4 +560,5 @@ export default function Portfolio() {
   );
 
 }
+
 
