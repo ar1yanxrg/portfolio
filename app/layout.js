@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'آریان امروانی - طراح سایت',
-  description: 'پورتفولیو شخصی برنامه‌نویس و طراح وب',
+  description: ' برنامه‌نویس و طراح وب',
 }
 
 export default function RootLayout({ children }) {
@@ -21,3 +21,4 @@ export default function RootLayout({ children }) {
   )
 
 }
+
