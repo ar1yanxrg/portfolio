@@ -56,7 +56,7 @@ export default function Portfolio() {
       image: ''
     },
     {
-      title: 'روژه ایی یافت نشده',
+      title: 'پروژه ایی یافت نشده',
       description: '',
       tech: ['JavaScript', 'CSS', 'HTML'],
       gradient: 'from-gray-400 to-gray-600',
@@ -375,7 +375,7 @@ export default function Portfolio() {
             <Card className="bg-slate-900/50 border-slate-800 backdrop-blur-sm p-8 hover:border-gray-500/50 transition-all duration-300 hover:scale-105">
               <div className="space-y-5 text-slate-300 font-bold text-xl leading-relaxed">
                 <p>
-                  سلام! من یک برنامه‌نویس و طراح وب هستم که به‌تازگی  در زمینه توسعه‌ی فرانت‌اند شروع کرده‌ام.
+                  سلام! من یک برنامه‌نویس و طراح وب با بیش از 1 سال تجربه در زمینه توسعه فرانت‌اند هستم.
                 </p>
                 <p>
                   تخصص من در <span className="text-gray-300 font-black">HTML</span>، <span className="text-gray-400 font-black">CSS</span> و <span className="text-gray-500 font-black">JavaScript</span> است و می‌توانم وب‌سایت‌های زیبا و کارآمد بسازم.
@@ -441,13 +441,15 @@ export default function Portfolio() {
                 <Mail className="w-8 h-8 text-white" />
               </a>
             </div>
+
             <Button
               size="lg"
               className="bg-gradient-to-l from-gray-600 via-gray-700 to-gray-900 hover:from-gray-500 hover:via-gray-600 hover:to-gray-800 text-white font-black text-xl px-10 py-7 rounded-2xl shadow-2xl hover:shadow-gray-500/50 hover:scale-105 transition-all duration-300"
             >
-              دانلود رزومه
+              تنها راه های ارتباطی
               <Award className="w-6 h-6 mr-3" />
             </Button>
+          </div>
         </div>
       </section>
 
@@ -556,9 +558,4 @@ export default function Portfolio() {
       `}</style>
     </div>
   );
-
 }
-
-
-
-
